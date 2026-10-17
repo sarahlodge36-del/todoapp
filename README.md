@@ -1,16 +1,71 @@
-# React + Vite
+# Todo App — React Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive task management application built with React, JavaScript and CSS. Designed to help users organise everyday tasks, manage priorities and keep track of deadlines.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View the Todo App](https://astounding-trifle-2131d5.netlify.app/)
 
-## React Compiler
+View the Todo App
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Overview
 
-## Expanding the ESLint configuration
+This was one of my earlier React projects, created to practise building interactive interfaces and managing application state.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The aim was to develop a practical task manager with more functionality than a basic todo list.
+
+## Features
+
+- Task management: Add, edit, complete and delete tasks.
+
+- Priority levels: Assign high, medium or low priority.
+
+- Task filtering: View all, active or completed tasks, or filter by priority.
+
+- Due dates: Set deadlines for individual tasks.
+
+- Overdue warnings: Highlight tasks that have passed their due dates.
+
+- Task counter: Display the number of remaining tasks.
+
+## Tech Stack
+
+- React
+
+- JavaScript
+
+- CSS
+
+- HTML
+
+- Vite
+
+- Netlify (deployment)
+
+## What I Practised
+
+- Creating reusable React components
+
+- Managing interactive application state
+
+- Handling user input and events
+
+- Rendering and updating task lists
+
+- Applying conditional rendering for task statuses
+
+- Styling an interactive interface with CSS
+
+## Future Improvements
+
+- Improve accessibility and keyboard navigation
+
+- Expand testing
+
+- Refine the interface for different screen sizes
+
+## About This Project
+
+This project represents an earlier stage of my development journey and helped me strengthen my understanding of React and JavaScript.
+
+Built by Sarah.
